@@ -6,4 +6,8 @@ lll
 III
 ggg
 iii
+<<<<<<< HEAD
 eee
+=======
+sss
+>>>>>>> new
